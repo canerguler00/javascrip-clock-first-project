@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    
+}
+strong{
+    font-size: 25px;
+}
+span {
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+}
